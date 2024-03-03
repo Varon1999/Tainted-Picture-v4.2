@@ -46,6 +46,8 @@ Requal = Equal - Equal
 
 ------------------------------------
 
+Ausch Fedian - English - Celestian
+
 Janary - January - Domis
 Fabos - February - Fomis
 Marit - March - Sumeis
